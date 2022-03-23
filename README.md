@@ -2,7 +2,8 @@
 
 My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, South America 🌎.
 <p align="center">
-    <img src="Brazil-on-Google-Earth.gif" alt="Brazil, South America." width="555"/>
+    <img src="Brazil-on-Google-Earth.gif" alt="Brazil, South America." width="500"/>
+    <!-- [❌] find perfect image width -->
 </p>
 
 # 🏅 Current goals (constantly updated by me)
@@ -11,7 +12,7 @@ My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, 
 - 📚 Learn Typescript
 - 👨🏻‍💻 Get a job as a jr Dev.
 
-# ✅ Proudly completeded projects
+# ✔️ Proudly completed projects
 
 - Python
     - [Twitterbot](https://github.com/Cadavanaugh/Twitterbot) 
