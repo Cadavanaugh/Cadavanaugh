@@ -1,7 +1,9 @@
 # 🔎 Whoami
 
 My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, South America 🌎.
-![Brazil on Google Earth](Brazil-on-Google-Earth.gif)
+<p align="center">
+    <img src="Brazil-on-Google-Earth.gif" alt="Brazil, South America." width="555"/>
+</p>
 
 # 🏅 Current goals (constantly updated by me)
 
