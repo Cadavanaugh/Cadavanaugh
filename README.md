@@ -11,8 +11,8 @@ My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, 
 # ✅ Proudly completeded projects
 
 - Python
-    - [Twitterbot](https://github.com/Cadavanaugh/Twitterbot)
-    ![Twitterbot screenshot.](https://github.com/Cadavanaugh/Twitterbot/raw/main/img/working.PNG)
+    - [Twitterbot](https://github.com/Cadavanaugh/Twitterbot) 
+        ![Twitterbot screenshot.](https://github.com/Cadavanaugh/Twitterbot/raw/main/img/working.PNG)
     <!-- Add 'twitterbot' working gif instead of pic -->
         
     - [Water-Drinking-Reminder](https://github.com/Cadavanaugh/Water-Drinking-Reminder)
