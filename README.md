@@ -19,10 +19,7 @@ My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, 
     Python
 </p>
 
-- <a href='https://github.com/Cadavanaugh/Twitterbot'> Twitterbot 🐦</a> - GUI application that retweets given keywords found in twitter.
-I originally coded Twitterbot to retweet all my friends' tweets that contained my name.
-Seeing the potential 📈 of the project I made a GUI that requests only the required information  needed to create a Twitter bot. Now everyone can have their own bot for  free 🤑.
-I believe 🙏 this will help marketing campaigns and companies advertisements.
+- <a href='https://github.com/Cadavanaugh/Twitterbot'> Twitterbot 🐦</a> - GUI application that retweets given keywords found in twitter.<br>I originally coded Twitterbot to retweet all my friends' tweets that contained my name.<br>Seeing the potential 📈 of the project I made a GUI that requests only the required information  needed to create a Twitter bot. Now everyone can have their own bot for  free 🤑.<br>I believe 🙏 this will help marketing campaigns and companies advertisements.
 <p align='center'>
 <img src='https://github.com/Cadavanaugh/Twitterbot/raw/main/img/working.PNG' width='500' />
 </p>
@@ -35,9 +32,7 @@ I believe 🙏 this will help marketing campaigns and companies advertisements.
     Javascript
 </p>
 
-- <a href='https://github.com/Cadavanaugh/Twitterbot'>Hypnotizer 😵</a> - simple timer with psychedelic theme.
-I built this project in the intention to learn Javascript 👨‍💻.
-I used **jQuery** due to the beginner-friendliness compared to modern ES6.
+- <a href='https://github.com/Cadavanaugh/Twitterbot'>Hypnotizer 😵</a> - simple timer with psychedelic theme.<br>I built this project in the intention to learn Javascript 👨‍💻.<br>I used **jQuery** due to the beginner-friendliness compared to modern ES6.
 <p align='center'>
     <img src='images/Hypnotizer.gif' 
 width='500' />
