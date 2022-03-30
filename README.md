@@ -19,9 +19,9 @@ My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, 
     Python
 </p>
 
-- <a href='https://github.com/Cadavanaugh/Twitterbot'> Twitterbot 🐦</a> - GUI application that retweets given keywords found in twitter.<br>I originally coded Twitterbot to retweet all my friends' tweets that contained my name.<br>Seeing the potential 📈 of the project I made a GUI that requests only the required information  needed to create a Twitter bot. Now everyone can have their own bot for  free 🤑.<br>I believe 🙏 this will help marketing campaigns and companies advertisements.
+- <a href='https://github.com/Cadavanaugh/Twitterbot'> Twitterbot 🐦</a> - GUI application that retweets given keywords found in twitter.<br>In this project I consume the Twitter API through the **Tweepy** library.<br>I used **tkinter** to create the graphical user interface.
 <p align='center'>
-<img src='https://github.com/Cadavanaugh/Twitterbot/raw/main/img/working.PNG' width='500' />
+    <img src='https://github.com/Cadavanaugh/Twitterbot/raw/main/img/working.PNG' width='500' />
 </p>
 
 ---
