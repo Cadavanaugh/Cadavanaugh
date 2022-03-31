@@ -32,7 +32,7 @@ My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, 
     Javascript
 </p>
 
-- <a href='https://github.com/Cadavanaugh/Twitterbot'>Hypnotizer 😵</a> - simple timer with psychedelic theme.<br>I built this project in the intention to learn Javascript 👨‍💻.<br>I used **jQuery** due to the beginner-friendliness compared to modern ES6.
+- <a href='https://github.com/Cadavanaugh/Hypnotizer'>Hypnotizer 😵</a> - simple timer with psychedelic theme.<br>I built this project in the intention to learn Javascript 👨‍💻.<br>I used **jQuery** due to the beginner-friendliness compared to modern ES6.
 <p align='center'>
     <img src='images/Hypnotizer.gif' 
 width='500' />
