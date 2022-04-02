@@ -24,6 +24,11 @@ My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, 
     <img src='https://github.com/Cadavanaugh/Twitterbot/raw/main/img/working.PNG' width='500' />
 </p>
 
+- <a href='https://github.com/Cadavanaugh/Twitterbot'> Water-Drinking-Reminder 💧</a> - simple CLI implementation of a water reminder app.<br>🌎 Real-world useful project.<br>I used **Pygame** mixer to play the alarm sound 🔊.
+<p align='center'>
+    <img src='images/Water-Drinking-Reminder Demo.png' width='500' />
+</p>
+
 ---
 
 <p align='center'>
