@@ -10,6 +10,7 @@ My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, 
   - **pnpm**
   - **Preact**
   - **Vite**
+  - **Cython**
 - UX-worried 📱<br>When I'm developing an application I'm always oriented by how pleasant the experience of my end-user will be. This way I can design more optimized and easy-to-use software.
 - Megalomaniac 🌐<br>I want to do great changes in the world through technology. Contributing to many open-source projects as possible is one of my life goals. As an anarchist I believe tech is the way power can return to the people ✊.
 
