@@ -2,7 +2,7 @@
 
 My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, South America 🌎.
 <p align="center">
-    <img src="images/Brazil-on-Google-Earth.gif" alt="Brazil, South America." width="500"/>
+    <img src="./images/Brazil-Google-Earth.webp" alt="Brazil, South America." width="500"/>
 </p>
 
 ## 🧠 Particularities
