@@ -5,14 +5,25 @@ My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, 
     <img src="./images/Brazil-Google-Earth.webp" alt="Brazil, South America." width="500"/>
 </p>
 
-## 🧠 Particularities
+# ⚡ Skills
+## Front-end
+### Standard
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+<!-- ## 🧠 Particularities
 - Perfomance-driven 🚗💨<br>I consider perfomance one of the most important things in software. Therefore I'm always looking for alternatives that aim to do stuff faster, such as:
   - **pnpm**
   - **Preact**
   - **Vite**
   - **Cython**
 - UX-worried 📱<br>When I'm developing an application I'm always oriented by how pleasant the experience of my end-user will be. This way I can design more optimized and easy-to-use software.
-- Megalomaniac 🌐<br>I want to do great changes in the world through technology. Contributing to many open-source projects as possible is one of my life goals. As an anarchist I believe tech is the way power can return to the people ✊.
+- Megalomaniac 🌐<br>I want to do great changes in the world through technology. Contributing to many open-source projects as possible is one of my life goals. As an anarchist I believe tech is the way power can return to the people ✊. -->
 
 # 🏅 Current goals (constantly updated by me)
 
