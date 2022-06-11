@@ -81,7 +81,7 @@ width='500' />
     <img src='images/Squid-Games-Trivia.gif' width='500' />
 </p>
 
-- <a href='https://github.com/Cadavanaugh/Trybe-Project-Recipes-App'>Recipes App 👨‍🍳</a> - Ratatouille Recipes WebApp.<br>This project consumes the **FOODS API** & **DRINKS API**.<br>Team-developed with **Context API**.
+- <a href='https://github.com/Cadavanaugh/Trybe-Project-Recipes-App'>Recipes App 👨‍🍳</a> - Ratatouille Recipes WebApp.<br>This project consumes the **TheMealsDB API** & **TheCocktailDB API**.<br>Team-developed with **Context API**.
 <p align='center'>
     <img src='images/recipesApp/recipes_login.png' width='200' />
     <img src='images/recipesApp/recipes_foods.png' width='200' />
