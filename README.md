@@ -78,6 +78,12 @@ width='500' />
 
 - <a href='https://github.com/Cadavanaugh/Trybe-Project-Trivia'>Squid Game Quiz 🎮</a> - Squid Games thematic trivia game.<br>This project consumes the **OPEN TRIVIA DB** API.<br>Team-developed with **React & Redux**.
 <p align='center'>
-    <img src='images/Squid-Games-Trivia.gif'
-width='500' />
+    <img src='images/Squid-Games-Trivia.gif' width='500' />
+</p>
+
+- <a href='https://github.com/Cadavanaugh/Trybe-Project-Recipes-App'>Recipes App 👨‍🍳</a> - Ratatouille Recipes WebApp.<br>This project consumes the **FOODS API** & **DRINKS API**.<br>Team-developed with **Context API**.
+<p align='center'>
+    <img src='images/recipesApp/recipes_login.png' width='200' />
+    <img src='images/recipesApp/recipes_foods.png' width='200' />
+    <img src='images/recipesApp/recipes_sample.png' width='200' />
 </p>
