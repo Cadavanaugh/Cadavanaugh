@@ -73,7 +73,7 @@ My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, 
 width='500' />
 </p>
 
-- <a href='https://github.com/Cadavanaugh/Hypnotizer'>Bomb O'Clock 💣</a> - A countdown timer-bomb.<br>I coded Bomb O'clock for my 10min class breaks at Trybe.<br>Built with **ReactJS**.<br>**Context API** manages the application state.
+- <a href='https://github.com/Cadavanaugh/Bomb-O-Clock'>Bomb O'Clock 💣</a> - A countdown timer-bomb.<br>I coded Bomb O'clock for my 10min class breaks at Trybe.<br>Built with **ReactJS**.<br>**Context API** manages the application state.
 <p align='center'>
     <img src='images/bomb-o-clock-demo.gif' 
 width='500' />
