@@ -5,7 +5,7 @@ My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, 
     <img src="./images/Brazil-Google-Earth.webp" alt="Brazil, South America." width="500"/>
 </p>
 
-# ⚡ Skills
+<!-- # ⚡ Skills
 ## Front-end 📱
 ### Standard
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -21,25 +21,24 @@ My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![NPM](https://img.shields.io/badge/NPM-CE3434.svg?style=for-the-badge&logo=npm&logoColor=white)![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ### Frameworks
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-### CI/CD
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### CI/CD
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
 
-<!-- ## 🧠 Particularities
+## 👤 About me
 - Perfomance-driven 🚗💨<br>I consider perfomance one of the most important things in software. Therefore I'm always looking for alternatives that aim to do stuff faster, such as:
   - **pnpm**
-  - **Preact**
   - **Vite**
-  - **Cython**
+  - **Minification**
 - UX-worried 📱<br>When I'm developing an application I'm always oriented by how pleasant the experience of my end-user will be. This way I can design more optimized and easy-to-use software.
-- Megalomaniac 🌐<br>I want to do great changes in the world through technology. Contributing to many open-source projects as possible is one of my life goals. As an anarchist I believe tech is the way power can return to the people ✊. -->
+- Megalomaniac 🌐<br>I want to do great changes in the world through technology. Contributing to many open-source projects as possible is one of my life goals. As an anarchist I believe tech is the way power can return to the people ✊.
 
 # 📚 Currently studying
 
-- 💻 Back-end Javascript (express.js, MySQL)
-- 📱 Dart & Flutter (mobile development)
-- ☁️ Serverless computing (Heroku, Firebase)
+- Typescript
+- Flutter
+- Golang
 
 # ✔️ Proudly completed projects
 
