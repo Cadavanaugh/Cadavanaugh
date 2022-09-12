@@ -53,23 +53,12 @@ My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, 
     <img src='https://github.com/Cadavanaugh/Twitterbot/raw/main/img/working.PNG' width='500' />
 </p>
 
-- <a href='https://github.com/Cadavanaugh/Water-Drinking-Reminder'> Water-Drinking-Reminder 💧</a> - CLI implementation of a water alarm app.<br>🌎 Real-world useful project.<br>I used **Pygame** mixer to play the alarm sound 🔊.
-<p align='center'>
-    <img src='images/Water-Drinking-Reminder Demo.png' width='300' />
-</p>
-
 ---
 
 <p align='center'>
     <img src='https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png' width='100'/>
     <br>
     Javascript
-</p>
-
-- <a href='https://github.com/Cadavanaugh/Hypnotizer'>Hypnotizer 😵</a> - simple timer with psychedelic theme.<br>I built this project in the intention to learn Javascript 👨‍💻.<br>I used **jQuery** due to the beginner-friendliness compared to modern ES6.
-<p align='center'>
-    <img src='images/Hypnotizer.gif' 
-width='500' />
 </p>
 
 - <a href='https://github.com/Cadavanaugh/Bomb-O-Clock'>Bomb O'Clock 💣</a> - A countdown timer-bomb.<br>I coded Bomb O'clock for my 10min class breaks at Trybe.<br>Built with **ReactJS**.<br>**Context API** manages the application state.
