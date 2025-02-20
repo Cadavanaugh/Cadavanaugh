@@ -45,28 +45,27 @@ My day-to-day stack include: Python, Azure Devops, Airflow, Kubernetes and Datab
 ## 🏆 Proudly completed side-projects
 
 <p align='center'>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png' width='100'/>
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon-700x697.png&f=1&nofb=1&ipt=0e04e9f0b60b6b66b92567706921e81b0d55a1ad403ff644181067384e0707ff&ipo=images' width='100'/>
     <br>
     Python
 </p>
 
-- <a href='https://github.com/Cadavanaugh/Twitterbot'> Twitterbot 🐦</a> - GUI application that retweets given keywords found in twitter.<br>In this project I consume the Twitter API through the **Tweepy** library.<br>I used **tkinter** to create the graphical user interface.
+<a href='https://github.com/Cadavanaugh/Bomb-O-Clock'><h3>Twitterbot 🐦</h3></a>GUI application that retweets when finds keywords in public tweets.
 <p align='center'>
-    <img src='https://github.com/Cadavanaugh/Twitterbot/raw/main/img/working.PNG' width='500' />
-</p>
-
----
-
-<p align='center'>
-    <img src='https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png' width='100'/>
-    <br>
-    Javascript
-</p>
-
-- <a href='https://github.com/Cadavanaugh/Bomb-O-Clock'>Bomb O'Clock 💣</a> - A countdown timer-bomb.<br>I coded Bomb O'clock for my 10min class breaks at Trybe.<br>Built with **ReactJS**.<br>**Context API** manages the application state.
-<p align='center'>
-    <img src='images/bomb-o-clock-demo.gif' 
+    <img src='https://github.com/Cadavanaugh/Twitterbot/raw/main/img/working.PNG' 
 width='500' />
+    <br/>
+    Built using Tweepy
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon-700x697.png&f=1&nofb=1&ipt=0e04e9f0b60b6b66b92567706921e81b0d55a1ad403ff644181067384e0707ff&ipo=images' width='15'/>
+    <br/>
+    Used Tkinter for the GUI
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplay-lh.googleusercontent.com%2F98JfuGoUOxFK63NBn6Qd3TR1dSGcV_mJ17o_wRjPqWoKcDa7PyCG1K2C9jgH1Pb1N6Gj&f=1&nofb=1&ipt=50ed1bf3abb6ca49b03eaad9d59a88e3dae72e106b729ebdff728d62a3f7ae0d&ipo=images' width='15'/>
+    <br/>
+    Available for download <a href="https://www.mediafire.com/file/54aswhwjw6d36lw/Twitterbot.exe/file">here</a>
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F272%2FPNG%2F512%2FDownloads_29996.png&f=1&nofb=1&ipt=f41bc0e3917d123a23ec02ebf5e91b51b5de4287c1eb19584fc5715d18daedcf&ipo=images' width='15'/>
+    <br/>
+    Video tutorial <a href="https://www.youtube.com/watch?v=M0GNUXA-H4Q">here</a>
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Fyoutube-icon-clipart-video-8.png&f=1&nofb=1&ipt=3c63a76fb0cec048ec90e58c535e921d886979cea4753b192394044316eec7f9&ipo=images' width='15'/>
 </p>
 
 ---
@@ -77,14 +76,55 @@ width='500' />
     Trybe
 </p>
 
-- <a href='https://github.com/Cadavanaugh/Trybe-Project-Trivia'>Squid Game Quiz 🎮</a> - Squid Games thematic trivia game.<br>This project consumes the **OPEN TRIVIA DB** API.<br>Team-developed with **React & Redux**.
+<a href='https://github.com/Cadavanaugh/Bomb-O-Clock'><h3>Bomb O'Clock 💣</h3></a>I coded Bomb O'clock for my 10min class breaks at Trybe ⏲
 <p align='center'>
-    <img src='images/Squid-Games-Trivia.gif' width='500' />
+    <img src='images/bomb-o-clock-demo.gif' 
+width='500' />
+    <br/>
+    Built using ReactJS
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Freactjs-icon-2048x1822-895pvt1c.png&f=1&nofb=1&ipt=9d265e4c825cfb1406a5d721eab25861957b527550fdd11bdbcfc1344d4ec8f1&ipo=images' width='15'/>
+    <br/>
+    Context API manages application state
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Flucas-de-lima%2FLucas-De-Lima%2Fmain%2Fassets%2Fpng%2Fcontext-Api.png&f=1&nofb=1&ipt=5f4e1b4ff31c515656a6ae878699185daf8e5ed2cfdd730776d7b0748bdc47d4&ipo=images' width='15'/>
+    <br/>
+    Deployed on Github Pages
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fgithub%2Fgithub_PNG80.png&f=1&nofb=1&ipt=4792adbae2e2a913e46a7decafa1120eb69c75dc013bb5648025e48ecff9ce49&ipo=images' width='15'/>
+    <br/>
+    See it live <a href="https://cadavanaugh.github.io/Bomb-O-Clock/">here</a>
 </p>
 
-- <a href='https://github.com/Cadavanaugh/Trybe-Project-Recipes-App'>Recipes App 👨‍🍳</a> - Ratatouille Recipes WebApp.<br>This project consumes the **TheMealsDB API** & **TheCocktailDB API**.<br>Team-developed with **Context API**.
+<a href='https://github.com/Cadavanaugh/Trybe-Project-Trivia'><h3>Squid Game Quiz 🎮</h3></a>
+<p align='center'>
+    <img src='images/Squid-Games-Trivia.gif' 
+width='500' />
+    <br/>
+    Built using ReactJS
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Freactjs-icon-2048x1822-895pvt1c.png&f=1&nofb=1&ipt=9d265e4c825cfb1406a5d721eab25861957b527550fdd11bdbcfc1344d4ec8f1&ipo=images' width='15'/>
+    <br/>
+    OPEN TRIVIA DB API consumption
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fachievement-images.teamtreehouse.com%2Fbadges_REST_API_Express_Stage1.png&f=1&nofb=1&ipt=1b751a4c00dcac00174b7c1366b73c94557658d9e22e1a46b843872a5f9fb1fd&ipo=images' width='15'/>
+    <br/>
+    Redux manages application state
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fredux-logo.png&f=1&nofb=1&ipt=cd20c7a9b532adc49f2def87aff221d12aad1e6309b613329469fee9fd6fa6ec&ipo=images' width='15'/>
+    <br/>
+</p>
+
+<a href='https://github.com/Cadavanaugh/Trybe-Project-Trivia'><h3>Recipes App 👨‍🍳</h3></a>
 <p align='center'>
     <img src='images/recipesApp/recipes_login.png' width='200' />
     <img src='images/recipesApp/recipes_foods.png' width='200' />
     <img src='images/recipesApp/recipes_sample.png' width='200' />
+    <br/>
+    Built using ReactJS
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Freactjs-icon-2048x1822-895pvt1c.png&f=1&nofb=1&ipt=9d265e4c825cfb1406a5d721eab25861957b527550fdd11bdbcfc1344d4ec8f1&ipo=images' width='15'/>
+    <br/>
+    TheMealsDB API consumption
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fachievement-images.teamtreehouse.com%2Fbadges_REST_API_Express_Stage1.png&f=1&nofb=1&ipt=1b751a4c00dcac00174b7c1366b73c94557658d9e22e1a46b843872a5f9fb1fd&ipo=images' width='15'/>
+    <br/>
+    TheCocktailDB API consumption
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fachievement-images.teamtreehouse.com%2Fbadges_REST_API_Express_Stage1.png&f=1&nofb=1&ipt=1b751a4c00dcac00174b7c1366b73c94557658d9e22e1a46b843872a5f9fb1fd&ipo=images' width='15'/>
+    <br/>
+    Context API manages application state
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Flucas-de-lima%2FLucas-De-Lima%2Fmain%2Fassets%2Fpng%2Fcontext-Api.png&f=1&nofb=1&ipt=5f4e1b4ff31c515656a6ae878699185daf8e5ed2cfdd730776d7b0748bdc47d4&ipo=images' width='15'/>
+    <br/>
 </p>
