@@ -7,7 +7,7 @@ My name is Jovane de Castro. Full-stack developer from Brazil 🌎.
 
 ## 💻 Experience
 <p align="center">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freelogovectors.net%2Fwp-content%2Fuploads%2F2023%2F01%2Fxp-inc-logo-freelogovectors.net_.png&f=1&nofb=1&ipt=b1476d20c15f6b1406bad59f26b9dd61611376cb8dbc14fb665a30e8ba4859b6&ipo=images" alt="Brazil, South America." width="200"/>
+    <img src="https://levanteideias.com.br/wp-content/uploads/elementor/thumbs/xp-inc-ozj0svudhrj6s4hl0r7d7gej2rehhptm6cfbid9rig.jpg" alt="XP Inc. logo" width="200"/>
     <br/>
     <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon-700x697.png&f=1&nofb=1&ipt=0e04e9f0b60b6b66b92567706921e81b0d55a1ad403ff644181067384e0707ff&ipo=images' width='20'/>
     <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fazure-devops-3628645-3029870.png&f=1&nofb=1&ipt=3ff911a51b2bc041b2e0ae59eaf84773902c4df85ad1bae707582a6bd9922bbe&ipo=images' width='20'/>
