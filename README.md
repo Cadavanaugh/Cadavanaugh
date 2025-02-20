@@ -5,7 +5,7 @@ My name is Jovane de Castro. Full-stack developer from Brazil 🌎.
     <img src="./images/Brazil-Google-Earth.webp" alt="Brazil, South America." width="500"/>
 </p>
 
-## 💻 Experience
+## 💻 Professional experience
 <p align="center">
     <img src="https://levanteideias.com.br/wp-content/uploads/elementor/thumbs/xp-inc-ozj0svudhrj6s4hl0r7d7gej2rehhptm6cfbid9rig.jpg" alt="XP Inc. logo" width="200"/>
     <br/>
@@ -20,17 +20,26 @@ My name is Jovane de Castro. Full-stack developer from Brazil 🌎.
 I've worked for 2 years remotely as Data Engineer in XP Inc. where I could learn a lot about cloud-native applications and how enterprise-grade software is built.
 My day-to-day stack include: Python, Azure Devops, Airflow, Kubernetes and Databricks
 
-
 ## 🌐 Currently online works
 <p align='center'>
     <img src='./images/Dali-demo.gif' width='500'/>
     <br/>
-    <a href="https://dalierp.com.br/">DALI</a>
+    Built using NextJS
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2Fbrands-and-social-media%2Fnextjs-icon.png&f=1&nofb=1&ipt=b312529540ea36a27905263b1d314a59d729efc35917f9c8c7264da59f73bb01&ipo=images' width='15'/>
+    <br/>
+    See it live <a href="https://dalierp.com.br/">here</a>
 </p>
+
 <p align='center'>
     <img src='./images/Rua-demo.gif' width='500'/>
     <br/>
-    <a href="https://ruacrew.com.br/">R.U.A. Crew</a>
+    Deployed on Hostinger
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fshiftcademy.com%2Fwp-content%2Fuploads%2F2023%2F10%2FHostinger-logo.png&f=1&nofb=1&ipt=93efa2beabd6b73c336905433fe5c4e46c6617cbf230aea348dedb219d2cc0aa&ipo=images' width='15'/>
+    <br/>
+    Built using ReactJS
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Freactjs-icon-2048x1822-895pvt1c.png&f=1&nofb=1&ipt=9d265e4c825cfb1406a5d721eab25861957b527550fdd11bdbcfc1344d4ec8f1&ipo=images' width='15'/>
+    <br/>
+    See it live <a href="https://ruacrew.com.br/">here</a>
 </p>
 
 ## 🏆 Proudly completed side-projects
