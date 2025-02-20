@@ -1,46 +1,39 @@
 # 🔎 Whoami
 
-My name is Jovane de Castro. And I’m a gen-z programmer from 🇧🇷 Brazil, South America 🌎.
+My name is Jovane de Castro. Full-stack developer from Brazil 🌎.
 <p align="center">
     <img src="./images/Brazil-Google-Earth.webp" alt="Brazil, South America." width="500"/>
 </p>
 
-<!-- # ⚡ Skills
-## Front-end 📱
-### Standard
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-### Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 💻 Experience
+<p align="center">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freelogovectors.net%2Fwp-content%2Fuploads%2F2023%2F01%2Fxp-inc-logo-freelogovectors.net_.png&f=1&nofb=1&ipt=b1476d20c15f6b1406bad59f26b9dd61611376cb8dbc14fb665a30e8ba4859b6&ipo=images" alt="Brazil, South America." width="200"/>
+    <br/>
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon-700x697.png&f=1&nofb=1&ipt=0e04e9f0b60b6b66b92567706921e81b0d55a1ad403ff644181067384e0707ff&ipo=images' width='20'/>
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fazure-devops-3628645-3029870.png&f=1&nofb=1&ipt=3ff911a51b2bc041b2e0ae59eaf84773902c4df85ad1bae707582a6bd9922bbe&ipo=images' width='20'/>
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd33wubrfki0l68.cloudfront.net%2F1ce51af84c7a020130ae2386d6483196abf58a27%2F7e8c4%2Fapache-airflow.png&f=1&nofb=1&ipt=5842cc73e7a1d362521a39f69648646602d40d323a611998277f1d0563aa9beb&ipo=images' width='20'/>
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Foer.gitlab.io%2Foer-on-oer-infrastructure%2Ffigures%2Flogos%2Fkubernetes.png&f=1&nofb=1&ipt=308908a9ab17758c2c5e505ff29fc6faffe44ecf6bcbc738e959c0b0c5591a37&ipo=images' width='20'/>
+    <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcompanieslogo.com%2Fimg%2Forig%2Fdatabricks-c40eaf44.png%3Ft%3D1699346237&f=1&nofb=1&ipt=49f14306be6db973411c73d31a9a8bee19d5de44ef6f66a056aa3b2629d104d8&ipo=images' width='20'/>
+    <br/>
+    2022 - 2024
+</p>
+I've worked for 2 years remotely as Data Engineer in XP Inc. where I could learn a lot about cloud-native applications and how enterprise-grade software is built.
+My day-to-day stack include: Python, Azure Devops, Airflow, Kubernetes and Databricks
 
-### Tools
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-## Back-end ⚙️
+## 🌐 Currently online works
+<p align='center'>
+    <img src='./images/Dali-demo.gif' width='500'/>
+    <br/>
+    <a href="https://dalierp.com.br/">DALI</a>
+</p>
+<p align='center'>
+    <img src='./images/Rua-demo.gif' width='500'/>
+    <br/>
+    <a href="https://ruacrew.com.br/">R.U.A. Crew</a>
+</p>
 
-### Standard
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![NPM](https://img.shields.io/badge/NPM-CE3434.svg?style=for-the-badge&logo=npm&logoColor=white)![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-### Frameworks
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-### CI/CD
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
-
-## 👤 About me
-- Perfomance-driven 🚗💨<br>I consider perfomance one of the most important things in software. Therefore I'm always looking for alternatives that aim to do stuff faster, such as:
-  - **pnpm**
-  - **Vite**
-  - **Minification**
-- UX-worried 📱<br>When I'm developing an application I'm always oriented by how pleasant the experience of my end-user will be. This way I can design more optimized and easy-to-use software.
-- Megalomaniac 🌐<br>I want to do great changes in the world through technology. Contributing to many open-source projects as possible is one of my life goals. As an anarchist I believe tech is the way power can return to the people ✊.
-
-# 📚 Currently studying
-
-- Typescript
-- Flutter
-- Golang
-
-# ✔️ Proudly completed projects
+## 🏆 Proudly completed side-projects
 
 <p align='center'>
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png' width='100'/>
