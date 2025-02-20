@@ -50,7 +50,7 @@ My day-to-day stack include: Python, Azure Devops, Airflow, Kubernetes and Datab
     Python
 </p>
 
-### [Twitterbot 🐦](https://github.com/Cadavanaugh/Bomb-O-Clock)
+### [Twitterbot 🐦](https://github.com/Cadavanaugh/Twitterbot)
 GUI application that retweets when finds keywords in public tweets.
 <p align='center'>
     <img src='https://github.com/Cadavanaugh/Twitterbot/raw/main/img/working.PNG' 
@@ -111,7 +111,7 @@ width='500' />
     <br/>
 </p>
 
-### [Recipes App 👨‍🍳](https://github.com/Cadavanaugh/Trybe-Project-Trivia)
+### [Recipes App 👨‍🍳](https://github.com/Cadavanaugh/Trybe-Project-Recipes-App)
 <p align='center'>
     <img src='images/recipesApp/recipes_login.png' width='200' />
     <img src='images/recipesApp/recipes_foods.png' width='200' />
