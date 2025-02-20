@@ -50,7 +50,8 @@ My day-to-day stack include: Python, Azure Devops, Airflow, Kubernetes and Datab
     Python
 </p>
 
-<a href='https://github.com/Cadavanaugh/Bomb-O-Clock'><h3>Twitterbot 🐦</h3></a>GUI application that retweets when finds keywords in public tweets.
+### [Twitterbot 🐦](https://github.com/Cadavanaugh/Bomb-O-Clock)
+GUI application that retweets when finds keywords in public tweets.
 <p align='center'>
     <img src='https://github.com/Cadavanaugh/Twitterbot/raw/main/img/working.PNG' 
 width='500' />
@@ -76,7 +77,8 @@ width='500' />
     Trybe
 </p>
 
-<a href='https://github.com/Cadavanaugh/Bomb-O-Clock'><h3>Bomb O'Clock 💣</h3></a>I coded Bomb O'clock for my 10min class breaks at Trybe ⏲
+### [Bomb O'Clock 💣](https://github.com/Cadavanaugh/Bomb-O-Clock)
+I coded Bomb O'clock for my 10min class breaks at Trybe ⏲
 <p align='center'>
     <img src='images/bomb-o-clock-demo.gif' 
 width='500' />
@@ -93,7 +95,7 @@ width='500' />
     See it live <a href="https://cadavanaugh.github.io/Bomb-O-Clock/">here</a>
 </p>
 
-<a href='https://github.com/Cadavanaugh/Trybe-Project-Trivia'><h3>Squid Game Quiz 🎮</h3></a>
+### [Squid Game Quiz 🎮](https://github.com/Cadavanaugh/Trybe-Project-Trivia)
 <p align='center'>
     <img src='images/Squid-Games-Trivia.gif' 
 width='500' />
@@ -109,7 +111,7 @@ width='500' />
     <br/>
 </p>
 
-<a href='https://github.com/Cadavanaugh/Trybe-Project-Trivia'><h3>Recipes App 👨‍🍳</h3></a>
+### [Recipes App 👨‍🍳](https://github.com/Cadavanaugh/Trybe-Project-Trivia)
 <p align='center'>
     <img src='images/recipesApp/recipes_login.png' width='200' />
     <img src='images/recipesApp/recipes_foods.png' width='200' />
