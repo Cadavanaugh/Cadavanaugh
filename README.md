@@ -21,7 +21,7 @@ I've worked for 2 years remotely as Data Engineer in XP Inc. where I could learn
 My day-to-day stack include: Python, Azure Devops, Airflow, Kubernetes and Databricks
 
 ## 🌐 Currently online works
-<p align='center'>
+<p align='left'>
     <img src='./images/Dali-demo.gif' width='500'/>
     <br/>
     Built using NextJS
@@ -30,7 +30,7 @@ My day-to-day stack include: Python, Azure Devops, Airflow, Kubernetes and Datab
     See it live <a href="https://dalierp.com.br/">here</a>
 </p>
 
-<p align='center'>
+<p align='left'>
     <img src='./images/Rua-demo.gif' width='500'/>
     <br/>
     Deployed on Hostinger
@@ -51,7 +51,7 @@ My day-to-day stack include: Python, Azure Devops, Airflow, Kubernetes and Datab
 </p>
 
 <a href='https://github.com/Cadavanaugh/Bomb-O-Clock'><h3>Twitterbot 🐦</h3></a>GUI application that retweets when finds keywords in public tweets.
-<p align='center'>
+<p align='left'>
     <img src='https://github.com/Cadavanaugh/Twitterbot/raw/main/img/working.PNG' 
 width='500' />
     <br/>
@@ -77,7 +77,7 @@ width='500' />
 </p>
 
 <a href='https://github.com/Cadavanaugh/Bomb-O-Clock'><h3>Bomb O'Clock 💣</h3></a>I coded Bomb O'clock for my 10min class breaks at Trybe ⏲
-<p align='center'>
+<p align='left'>
     <img src='images/bomb-o-clock-demo.gif' 
 width='500' />
     <br/>
@@ -94,7 +94,7 @@ width='500' />
 </p>
 
 <a href='https://github.com/Cadavanaugh/Trybe-Project-Trivia'><h3>Squid Game Quiz 🎮</h3></a>
-<p align='center'>
+<p align='left'>
     <img src='images/Squid-Games-Trivia.gif' 
 width='500' />
     <br/>
@@ -110,7 +110,7 @@ width='500' />
 </p>
 
 <a href='https://github.com/Cadavanaugh/Trybe-Project-Trivia'><h3>Recipes App 👨‍🍳</h3></a>
-<p align='center'>
+<p align='left'>
     <img src='images/recipesApp/recipes_login.png' width='200' />
     <img src='images/recipesApp/recipes_foods.png' width='200' />
     <img src='images/recipesApp/recipes_sample.png' width='200' />
